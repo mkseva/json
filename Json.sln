@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.2.8818
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONLib", "JSONLib\JSONLib.csproj", "{0C22E508-8E7A-41F7-A1F0-4497C09C8997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{DCC76244-B15C-4169-9E27-93FE60F06845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C22E508-8E7A-41F7-A1F0-4497C09C8997}.Debug|x86.Build.0 = Debug|x86
+		{0C22E508-8E7A-41F7-A1F0-4497C09C8997}.Debug|x86.ActiveCfg = Debug|x86
+		{0C22E508-8E7A-41F7-A1F0-4497C09C8997}.Release|x86.Build.0 = Release|x86
+		{0C22E508-8E7A-41F7-A1F0-4497C09C8997}.Release|x86.ActiveCfg = Release|x86
+		{DCC76244-B15C-4169-9E27-93FE60F06845}.Debug|x86.Build.0 = Debug|x86
+		{DCC76244-B15C-4169-9E27-93FE60F06845}.Debug|x86.ActiveCfg = Debug|x86
+		{DCC76244-B15C-4169-9E27-93FE60F06845}.Release|x86.Build.0 = Release|x86
+		{DCC76244-B15C-4169-9E27-93FE60F06845}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
